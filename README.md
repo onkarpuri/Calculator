@@ -15,15 +15,9 @@ A basic arithmetic calculator project implemented using HTML, CSS, and JavaScrip
 
 ### Usage
 
-1. Clone the repository:
+1. Open `index.html` in your preferred web browser.
 
-    ```bash
-    git clone https://github.com/onkarpuri/calculator.git
-    ```
-
-2. Open `index.html` in your preferred web browser.
-
-3. Use the calculator to perform basic arithmetic calculations.
+2. Use the calculator to perform basic arithmetic calculations.
 
 ## Technologies Used
 
